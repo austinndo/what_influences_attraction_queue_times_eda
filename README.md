@@ -47,7 +47,7 @@ All of the models utilized a 70/30 training/test split of the data. Shown below 
 
 ![lasso_coef](/assets/lasso_coef.png)
 
-## 4. Assess model performance and analyze results¶
+## 4. Assess model performance and analyze results
 
 Reviewing the LASSO coefficients, the models show strong relationships between `attendance` and `capacity`. `weather_main` did not have as strong of an impact on wait times as I initially expected. 
 Nevertheless we continue to plot weather against wait to see how the different weather values affect the queue times. 
