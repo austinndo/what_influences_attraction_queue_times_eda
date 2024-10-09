@@ -15,7 +15,7 @@ The full analysis can be found [here](what_influences_attraction_queue_times.ipy
 
 ## 1. Explore the data and verify quality
 
-The data is uploaded here as a **compressed zip file**. I used the individual files to examine four CSVs: 
+The data was obtained from [kaggle](https://www.kaggle.com/datasets/ayushtankha/hackathon) and is uploaded here as a **compressed zip file**. I used the individual files to examine four CSVs: 
 
 
 ```
